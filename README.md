@@ -1,2 +1,2 @@
 # Azhar
-This repository is the lab task
+This repository for lab task
